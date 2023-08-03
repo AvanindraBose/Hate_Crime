@@ -12,6 +12,4 @@ Data Visualization: Developed interactive charts and maps for clear and intuitiv
 
 Impact: Empowered researchers, policymakers, and the public with data-driven insights into hate crime trends and patterns.
 
-Presentation: Delivered the hate crime dashboard to [mention audience], receiving positive feedback for its usability and effectiveness.
-
 Future: Expanding the dashboard's features to include real-time updates and additional context for deeper analysis.
